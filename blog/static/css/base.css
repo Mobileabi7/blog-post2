@@ -40,4 +40,6 @@ header h1 a {
 .post-entry h2 a:hover {
         color: red;
         }
-
+.hr1{
+    border-top: 10px dotted red;
+}
